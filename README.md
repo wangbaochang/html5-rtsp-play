@@ -1,7 +1,7 @@
 # html5-rtsp-play
 html5 播放rtsp视频流
 
-ws-server  node rtsp to flv server
+ws-server  node rtsp porxy
 
 npm install
 
